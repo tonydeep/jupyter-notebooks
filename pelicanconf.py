@@ -35,6 +35,13 @@ NEWEST_FIRST_ARCHIVES = True
 # GITHUB_SKIP_FORK = True
 # GITHUB_SHOW_USER_LINK = True
 
+# Sidebar image
+# SIDEBAR_IMAGE: Adds specified image to sidebar. Example value: "images/author_photo.jpg"
+# SIDEBAR_IMAGE_ALT: Alternative text for sidebar image
+# SIDEBAR_IMAGE_WIDTH: Width of sidebar image
+# SEARCH_BOX: set to true to enable site search box
+# SITESEARCH:
+
 # Blogroll.
 LINKS = (('PyAOS', 'http://pyaos.johnny-lin.com/'),
          ('EarthPy', 'http://earthpy.org/'),
